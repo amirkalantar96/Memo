@@ -1,0 +1,21 @@
+$purple: #800080;
+$dodgerblue: #1e90ff;
+$black: #000;
+$white: #fff;
+
+@font-face {
+    font-family: "Vazir";
+    src: url("./Font/Vazir.woff");
+    font-display: fallback;
+}
+
+* {
+    font-family: "Vazir", sans-serif;
+}
+
+.App {
+    background: linear-gradient(120deg, $purple, $black, $purple);
+    height: 100vh;
+    max-height: 100vh;
+    overflow: auto;
+}
