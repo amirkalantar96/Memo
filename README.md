@@ -1,4 +1,5 @@
 # MEMO 📝
+**Web-based Notebook**
 
 ## Description of the project
 
