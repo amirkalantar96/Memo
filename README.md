@@ -2,6 +2,14 @@
 **Web-based Notebook**
 
 ## Description of the project
+- Memo is a simple web-based notebook application.
+- It allows users to easily write and access essential daily notes through their browser.
+- The project focuses on minimal features, offering a straightforward note-taking experience without extra complexities.
+- Developed based on my own knowledge and coding experience.
+- Designed for general users who need a quick and accessible place to jot down thoughts or important information.
+- Addresses the common issue of having a simple, always-available notebook for capturing ideas or needs as they arise.
+- Memo can be further developed and extended by other developers.
+- Suitable for interns or beginner programmers as a learning resource.
 
 ## How does it work?
 1. Open Terminal.
