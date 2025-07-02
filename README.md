@@ -32,30 +32,21 @@
 ## 📁 Project Structure
 
 📦 Memo  
-├── 📁 public  
-│   ├── 📁 favicon  
-│   │   ├── android-chrome-192x192.png  
-│   │   ├── android-chrome-512x512.png  
-│   │   ├── apple-touch-icon.png    
-│   │   ├── favicon-16x16.png  
-│   │   ├── favicon-32x32.png  
-│   │   ├── favicon.ico  
-│   │   ├── about.txt    
-│   │   └── site.webmanifest  
-│   └── index.html  
-├── 📁 src  
-│   ├── 📁 Components   
-│   │   ├── Form.jsx  
-│   │   └── Items.jsx  
-│   ├── 📁 Font   
-│   │   └── Vazir.woff  
-│   ├── App.js  
-│   ├── App.scss  
-│   └── index.js  
-├── .gitignore  
-├── package-lock.json  
-├── package.json  
-└── README.md
+ ├── 📁 public  
+ │   ├── 📁 favicon    
+ │   └── index.html  
+ ├── 📁 src  
+ │   ├── 📁 Components   
+ │   │   ├── Form.jsx  
+ │   │   └── Items.jsx  
+ │   ├── 📁 Font     
+ │   ├── App.js  
+ │   ├── App.scss  
+ │   └── index.js  
+ ├── .gitignore  
+ ├── package-lock.json  
+ ├── package.json  
+ └── README.md
 
 ## 🛠️ Tech Stack
 
