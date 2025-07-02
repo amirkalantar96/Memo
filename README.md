@@ -11,6 +11,25 @@
 - Memo can be further developed and extended by other developers.
 - Suitable for interns or beginner programmers as a learning resource.
 
+## 📁 Project Structure
+
+📦 Memo  
+ ├── 📁 public  
+ │   ├── 📁 favicon    
+ │   └── index.html  
+ ├── 📁 src  
+ │   ├── 📁 Components   
+ │   │   ├── Form.jsx  
+ │   │   └── Items.jsx  
+ │   ├── 📁 Font     
+ │   ├── App.js  
+ │   ├── App.scss  
+ │   └── index.js  
+ ├── .gitignore  
+ ├── package-lock.json  
+ ├── package.json  
+ └── README.md
+ 
 ## How does it work?
 1. Open Terminal.
 2. Change the current working directory to the location where you want the cloned directory.
@@ -36,25 +55,6 @@
   ```
   npm start
   ```
-
-## 📁 Project Structure
-
-📦 Memo  
- ├── 📁 public  
- │   ├── 📁 favicon    
- │   └── index.html  
- ├── 📁 src  
- │   ├── 📁 Components   
- │   │   ├── Form.jsx  
- │   │   └── Items.jsx  
- │   ├── 📁 Font     
- │   ├── App.js  
- │   ├── App.scss  
- │   └── index.js  
- ├── .gitignore  
- ├── package-lock.json  
- ├── package.json  
- └── README.md
 
 ## 🛠️ Tech Stack
 
